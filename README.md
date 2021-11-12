@@ -5,8 +5,9 @@
 <div align="center">
   <img class="animated-gif" src="https://github.com/BobIT37/BobIT37/blob/main/action.gif" width="500px" height="400px">
 </div>
-<h2 align="center" style="border:2px solid Tomato"> Software Developer in Test</h2>
-
+<div align="center">
+<h2 style="border:2px solid Tomato"> Software Developer in Test</h2>
+</div>
 <h2 align="center">About me</h2>
 <p align="center">
   <samp>Highly motivated Certified SDET with 9+ years of hands on experience with web and mobile test automation providing services in fast-paced organizations. Experienced in QA and testing process, plans and defect tracking documentation. Adapts quickly to new requirements, leveraging strong communication and technical skills to meet the client requirements and ensure delivery of quality product on time.
