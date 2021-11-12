@@ -5,7 +5,7 @@
 <div align="center">
   <img class="animated-gif" src="https://github.com/BobIT37/BobIT37/blob/main/action.gif" width="500px" height="400px">
 </div>
-<h2 align="center" style="border:2px solid Tomato;"> Software Developer in Test</h2>
+<h2 align="center", style="border:2px solid Tomato;"> Software Developer in Test</h2>
 
 <h2 align="center">About me</h2>
 <p align="center">
