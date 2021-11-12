@@ -20,7 +20,6 @@
   <a target="_blank"href="https://bobit37.github.io/Resume/"><img src="https://img.shields.io/badge/Resume-%2312100E.svg?&style=for-the-badge&logo=bobit.us&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
 </p>
 
-<hr>
 </p>
 
 <hr>
