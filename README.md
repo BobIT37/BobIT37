@@ -13,7 +13,14 @@
   <samp>Highly motivated Certified SDET with 8+ years of hands on experience with web and mobile test automation providing services in fast-paced organizations. Experienced in QA and testing process, plans and defect tracking documentation. Adapts quickly to new requirements, leveraging strong communication and technical skills to meet the client requirements and ensure delivery of quality product on time.
   </samp>
   <br> <br>
-  <img src="https://github.com/BobIT37/BobIT37/blob/main/resume.png" alt="https://bobit37.github.io/Resume/" />
+  <hr>
+
+<h2 align="center">💬 Resume</h2>
+<p align="center" align='right'>
+  <a target="_blank"href="https://bobit37.github.io/Resume/"><img src="https://img.shields.io/badge/Resume-%2312100E.svg?&style=for-the-badge&logo=bobit.us&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
+</p>
+
+<hr>
 </p>
 
 <hr>
