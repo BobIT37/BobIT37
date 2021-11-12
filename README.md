@@ -7,7 +7,7 @@
 </div>
 <h2 align="center"> Software Developer in Test</h2>
 
-<h2 align="center"> 👨‍💻 Whoami</h2>
+<h2 align="center"> Who am I?</h2>
 <p align="center">
   <samp>Highly motivated Certified SDET with 8+ years of hands on experience with web and mobile test automation providing services in fast-paced organizations. Experienced in QA and testing process, plans and defect tracking documentation. Adapts quickly to new requirements, leveraging strong communication and technical skills to meet the client requirements and ensure delivery of quality product on time.
   </samp>
