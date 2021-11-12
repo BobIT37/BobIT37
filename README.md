@@ -5,7 +5,7 @@
 <div align="center">
   <img src="https://github.com/BobIT37/BobIT37/blob/main/action.gif" alt="header"/>
 </div>
-<p align="center"> (Software Developer in Test)</p>
+<h2 align="center"> Software Developer in Test</h2>
 
 <h2 align="center"> 👨‍💻 Whoami</h2>
 <p align="center">
