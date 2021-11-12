@@ -2,7 +2,6 @@
 **BobIT37/BobIT37** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 --->  
 
-<h1 align="center"> 👋 </h1>
 <div align="center">
   <img src="https://github.com/BobIT37/BobIT37/blob/main/action.gif" alt="header"/>
 </div>
