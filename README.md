@@ -3,7 +3,7 @@
 --->  
 
 <div align="center">
-  <img class="animated-gif" src="https://github.com/BobIT37/BobIT37/blob/main/action.gif" width="500px" height="400px">
+  <img class="animated-gif" src="https://github.com/BobIT37/BobIT37/blob/main/github_gif.gif" width="500px" height="400px">
 </div>
 <div align="center">
 <h2 style="color:blue">Software Developer in Test</h2>
