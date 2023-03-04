@@ -36,7 +36,7 @@
 
 <h2 align="center">💬 Web Page</h2>
 <p align="center" align='right'>
-  <a target="_blank"href="https://bobit.us/"><img src="https://img.shields.io/badge/bobit.us-%2312100E.svg?&style=for-the-badge&logo=bobit.us&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
+  <a target="_blank"href="https://bobit.us/"><img src="https://img.shields.io/badge/www.-%2312100E.svg?&style=for-the-badge&logo=bobit.www&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
 </p>
 
 <hr>
