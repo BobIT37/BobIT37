@@ -30,7 +30,7 @@
   <img src="https://img.shields.io/badge/Scala%20-%231572B6.svg?&style=for-the-badge&logo=Scala&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Scala%20-%FF5733.svg?&style=for-the-badge&logo=JavaScript&logoColor=white" />&nbsp;&nbsp;
 </p>
-<p align="center">Cyber Security, Pentesting, Selenium, Spring Boot, TestNG, JUnit, Cucumber, Appium, Gatling, JMeter, GitHub, Docker, Jenkins, AWS, BitBucket, SQL, MongoDB.</p>
+<p align="center">Cyber Security, Pentesting, Splunk, IBM QRadar, Burp Suite, Owasp Zap, Selenium, Spring Boot, TestNG, JUnit, Cucumber, Appium, Gatling, JMeter, GitHub, Docker, Jenkins, AWS, BitBucket, SQL, MongoDB.</p>
 
 <hr>
 
