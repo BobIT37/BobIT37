@@ -6,11 +6,11 @@
   <img class="animated-gif" src="https://github.com/BobIT37/BobIT37/blob/main/github_gif.gif" width="500px" height="400px">
 </div>
 <div align="center">
-<h2 style="color:blue">Software Developer in Test</h2>
+<h2 style="color:blue">Software Developer | Security Engineer</h2>
 </div>
 <h2 align="center">About me</h2>
 <p align="center">
-  <samp>Highly motivated Certified SDET with 9+ years of hands on experience with web and mobile test automation providing services in fast-paced organizations. Experienced in QA and testing process, plans and defect tracking documentation. Adapts quickly to new requirements, leveraging strong communication and technical skills to meet the client requirements and ensure delivery of quality product on time.
+  <samp>Highly motivated Certified Security Enginner | Software Developer with 9+ years of hands on experience software development and security providing services in fast-paced organizations. Experienced in different level testing processes, plans and defect tracking documentation. Adapts quickly to new requirements, leveraging strong communication and technical skills to meet the client requirements and ensure delivery of quality product on time.
   </samp>
   <br> <br>
   <hr>
