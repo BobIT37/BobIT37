@@ -28,8 +28,9 @@
   <img src="https://img.shields.io/badge/Java%20-%2343853D.svg?&style=for-the-badge&logo=Java&logoColor=white" />&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Python%20-%2300D9FF.svg?&style=for-the-badge&logo=Python&logoColor=white" />&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Scala%20-%231572B6.svg?&style=for-the-badge&logo=Scala&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Scala%20-%231572B6.svg?&style=for-the-badge&logo=JavaScript&logoColor=white" />&nbsp;&nbsp;
 </p>
-<p align="center">Selenium, Spring Boot, TestNG, JUnit, Cucumber, Appium, Gatling, JMeter, GitHub, Docker, Jenkins, AWS, BitBucket, SQL, MongoDB.</p>
+<p align="center">Cyber Security, Pentesting, Selenium, Spring Boot, TestNG, JUnit, Cucumber, Appium, Gatling, JMeter, GitHub, Docker, Jenkins, AWS, BitBucket, SQL, MongoDB.</p>
 
 <hr>
 
