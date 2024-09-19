@@ -6,7 +6,7 @@
   <img class="animated-gif" src="https://github.com/BobIT37/BobIT37/blob/main/github_gif.gif" width="500px" height="400px">
 </div>
 <div align="center">
-<h2 style="color:blue">Software Developer | Security Engineer</h2>
+<h2 style="color:blue">Cyber Secuirty Engineer | Software Developer</h2>
 </div>
 <h2 align="center">About me</h2>
 <p align="center">
