@@ -30,8 +30,7 @@
   <img src="https://img.shields.io/badge/Scala%20-%231572B6.svg?&style=for-the-badge&logo=Scala&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Scala%20-%FF5733.svg?&style=for-the-badge&logo=JavaScript&logoColor=white" />&nbsp;&nbsp;
 </p>
-<p align="center">Cyber Security, Pentesting, Splunk, IBM QRadar, Burp Suite, Owasp Zap, DevSecOps, Vulnerability Management, Threat Modelling, Security Audits, Encryption and Cryptography, Patch Management, Secure Coding Practices![image](https://github.com/user-attachments/assets/384165b0-39f7-41ac-8210-537b46d3f972)
-.</p>
+<p align="center">Cyber Security, Pentesting, Splunk, IBM QRadar, Burp Suite, Owasp Zap, DevSecOps, Vulnerability Management, Threat Modelling, Security Audits, Encryption and Cryptography, Patch Management, Secure Coding Practices.</p>
 
 <hr>
 
