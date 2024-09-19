@@ -10,7 +10,7 @@
 </div>
 <h2 align="center">About me</h2>
 <p align="center">
-  <samp>Highly motivated Certified Security Enginner | Software Developer with 9+ years of hands on experience software development and security providing services in fast-paced organizations. Experienced in different level testing processes, plans and defect tracking documentation. Adapts quickly to new requirements, leveraging strong communication and technical skills to meet the client requirements and ensure delivery of quality product on time.
+  <samp>Highly motivated Certified Security Enginner | Software Developer with 16 years of hands on experience software development and security providing services in fast-paced organizations. Experienced in different level testing processes, plans and defect tracking documentation. Adapts quickly to new requirements, leveraging strong communication and technical skills to meet the client requirements and ensure delivery of quality product on time.
   </samp>
   <br> <br>
   <hr>
@@ -30,7 +30,8 @@
   <img src="https://img.shields.io/badge/Scala%20-%231572B6.svg?&style=for-the-badge&logo=Scala&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Scala%20-%FF5733.svg?&style=for-the-badge&logo=JavaScript&logoColor=white" />&nbsp;&nbsp;
 </p>
-<p align="center">Cyber Security, Pentesting, Splunk, IBM QRadar, Burp Suite, Owasp Zap, Selenium, Spring Boot, TestNG, JUnit, Cucumber, Appium, Gatling, JMeter, GitHub, Docker, Jenkins, AWS, BitBucket, SQL, MongoDB.</p>
+<p align="center">Cyber Security, Pentesting, Splunk, IBM QRadar, Burp Suite, Owasp Zap, DevSecOps, Vulnerability Management, Threat Modelling, Security Audits, Encryption and Cryptography, Patch Management, Secure Coding Practices![image](https://github.com/user-attachments/assets/384165b0-39f7-41ac-8210-537b46d3f972)
+.</p>
 
 <hr>
 
